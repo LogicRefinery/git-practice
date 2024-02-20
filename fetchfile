@@ -1,0 +1,8 @@
+diff --git a/fetch.txt b/fetch.txt
+new file mode 100644
+index 0000000..de2d79f
+--- /dev/null
++++ b/fetch.txt
+@@ -0,0 +1 @@
++fetch.txt 파일만들어보기
+\ No newline at end of file
